@@ -1,0 +1,30 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+@Controller
+public class HelloController {
+	@GetMapping("/hello")
+	public String hello() {
+		return "hello";
+	}
+	
+	@GetMapping("/join")
+	public void joinForm() {
+		
+	}
+	@PostMapping("/join")
+	public String join(String id, String pwd, String name, String email) {
+		System.out.println("id: " + id);
+		System.out.println("pwd: " + pwd);
+		System.out.println("name: " + name);
+		System.out.println("id: " + email);
+		
+		
+		return "";
+	}
+	
+	
+}
