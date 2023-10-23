@@ -13,5 +13,7 @@
 <a href="/member/get?id=${m.id }">${m.id } </a>
 / ${m.pwd } / ${m.name }/ ${m.email }<br/>
 </c:forEach>
+<a href="/board/list">게시글</a>
+
 </body>
 </html>

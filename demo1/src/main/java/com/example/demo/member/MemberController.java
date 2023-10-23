@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 import jakarta.servlet.http.HttpSession;
 
 @Controller
-@RequestMapping("/member")
+@RequestMapping("/member") // url매핑하긴 위함, 기본 url 설정
 public class MemberController {
 	@Autowired
 	private MemberService service;
@@ -35,11 +35,11 @@ public class MemberController {
 		return mav;
 	}
 
-	@GetMapping("/get")
+	@GetMapping("/get") // 
 	public ModelAndView get(String id) {
 		Member m = service.getMember(id);
 		ModelAndView mav = new ModelAndView("member/detail");
-		mav.addObject("m", m);
+		mav.addObject("m", m); //Modelandview를 담는 명령어
 		return mav;
 	}
 

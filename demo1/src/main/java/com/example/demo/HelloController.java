@@ -39,7 +39,7 @@ public class HelloController {
 	}
 	
 	@GetMapping("/demo/paramtest")
-	public String param(HttpServletRequest req, HttpServletResponse res, HttpSession session) {
+	public String param(HttpServletRequest req, HttpServletResponse res, HttpSession session) { //req, res,session을 파람으로 만듦
 		String id = req.getParameter("id");
 		res.setCharacterEncoding("utf-8");
 		session.setAttribute("loginId", id);
@@ -70,9 +70,9 @@ public class HelloController {
 	@GetMapping("/demo/modelmap")//뷰 페이지 경로는 url과 동일
 	public ModelMap modelmap() {
 		ModelMap map = new ModelMap();
-		map.addAttribute("name", "aaa");
-		map.addAttribute("age", 12);
-		return map;
+		map.addAttribute("name", "aaa"); // key, value 형태로 값을 넣어줌 
+		map.addAttribute("age", 12); //addAttribure를 사용
+		return map; // jsp의 경로가 따로 설정 x -> 위의 맴핑 경로와 같은 jsp 파일로 이동
 	}
 }
 

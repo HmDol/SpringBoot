@@ -12,5 +12,6 @@
 ${sessionScope.loginId } 님 로그인<br/>
 <a href="/member/logout">로그아웃</a><br/>
 <a href="/board/list">글목록</a>
+<a href="/product/list">상품목록</a>
 </body>
 </html>

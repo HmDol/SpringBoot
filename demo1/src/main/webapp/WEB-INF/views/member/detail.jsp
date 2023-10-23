@@ -14,7 +14,7 @@ pwd: <input type="text" name="pwd" value="${m.pwd }"> <br/>
 name: <input type="text" name="name" value="${m.name }"><br/>
 email: <input type="text" name="email" value="${m.email }" readonly><br/>
 <input type="submit" value="수정">
-<a href="/member/del?id=${m.id }">삭제</a>
+<a href="/member/del?num=${m.num }">삭제</a>
 </form>
 <a href="/member/list">목록으로</a>
 </body>
