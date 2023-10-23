@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import java.util.ArrayList;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -16,6 +18,5 @@ public class Member {
 	private String pwd;
 	private String name;
 	private String email;
-	
-	
+	private ArrayList<Files> list;
 }

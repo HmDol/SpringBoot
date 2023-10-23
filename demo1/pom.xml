@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -42,60 +44,34 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
+			<groupId>org.apache.tomcat.embed</groupId>
+			<artifactId>tomcat-embed-jasper</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>jakarta.servlet</groupId>
+			<artifactId>jakarta.servlet-api</artifactId>
+			<!-- <version>6.0.0</version>-->
+			<scope>provided</scope>
+		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api -->
+		<dependency>
+			<groupId>jakarta.servlet.jsp.jstl</groupId>
+			<artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
+			<!-- <version>3.0.0</version>-->
+		</dependency>
+		<!--
+		https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl -->
+		<dependency>
+			<groupId>org.glassfish.web</groupId>
+			<artifactId>jakarta.servlet.jsp.jstl</artifactId>
+			<!-- <version>3.0.1</version>-->
+		</dependency>
+		<dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
-		<dependency>
 
-			<groupId>org.apache.tomcat.embed</groupId>
-
-			<artifactId>tomcat-embed-jasper</artifactId>
-
-		</dependency>
-		
-
-
-		<dependency>
-
-			<groupId>jakarta.servlet</groupId>
-
-			<artifactId>jakarta.servlet-api</artifactId>
-
-			<!-- <version>6.0.0</version>-->
-
-			<scope>provided</scope>
-
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api -->
-
-		<dependency>
-
-			<groupId>jakarta.servlet.jsp.jstl</groupId>
-
-			<artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
-
-			<!-- <version>3.0.0</version>-->
-
-		</dependency>
-
-		<!-- https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl -->
-
-		<dependency>
-
-			<groupId>org.glassfish.web</groupId>
-
-			<artifactId>jakarta.servlet.jsp.jstl</artifactId>
-
-			<!-- <version>3.0.1</version>-->
-
-		</dependency>
-		<dependency>
-    <groupId>javax.servlet</groupId>
-    <artifactId>javax.servlet-api</artifactId>
-    <version>4.0.1</version> <!-- 현재 최신 버전에 맞게 설정 -->
-    <scope>provided</scope>
-</dependency>
 	</dependencies>
 
 	<build>
