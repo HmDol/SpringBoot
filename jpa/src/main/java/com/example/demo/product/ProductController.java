@@ -66,6 +66,30 @@ public class ProductController {
 		map.put("amount", res.getAmount()+"");
 		return map;
 	}
+	
+	//상품명으로 검색(like 패턴으로 여러개 검색)
+	@RequestMapping("/getbyname")
+	public String getByName(String name, Model map) {
+		ArrayList<ProductDto> list = service.getByName(name);
+		map.addAttribute("list", list);
+		return "/product/list";
+	}
+	
+	//가격대로 검색(1000~2000)
+	@RequestMapping("/getbyprice")
+	public String getByPrice(int p1, int p2, Model map) {
+		ArrayList<ProductDto> list = service.getByPrice(p1, p2);
+		map.addAttribute("list", list);
+		return "/product/list";
+	}
+	
+	//판매자로 검색
+	@RequestMapping("/getbyseller")
+	public String getBySeller(String seller, Model map) {
+		ArrayList<ProductDto> list = service.getBySeller(seller);
+		map.addAttribute("list", list);
+		return "/product/list";
+	}
 }
 
 

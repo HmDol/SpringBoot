@@ -6,6 +6,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.example.demo.member.Member2;
+
 @Service
 public class ProductService {
 	@Autowired
@@ -37,16 +39,32 @@ public class ProductService {
 	public void delProduct(int num) {
 		dao.deleteById(num);
 	}
-//	public ArrayList<Product> getBySeller(String seller){
-//		return dao.selectBySeller(seller);
-//	}
-//	
-//	public ArrayList<Product> getByName(String name){
-//		return dao.selectByName(name);
-//	}
-//	
-//	public ArrayList<Product> getByPrice(int p1, int p2){
-//		return dao.selectByPrice(p1, p2);
-//	}
+	
+	public ArrayList<ProductDto> getBySeller(String seller){
+		List<Product2> list = dao.findBySeller(new Member2(seller,"","",""));
+		ArrayList<ProductDto> list2 = new ArrayList<>();
+		for(Product2 p : list) {
+			list2.add(new ProductDto(p.getNum(), p.getName(), p.getPrice(), p.getAmount(), p.getSeller()));
+		}
+		return list2; 
+	}
+	
+	public ArrayList<ProductDto> getByName(String name){
+		List<Product2> list = dao.findByNameLike(name);
+		ArrayList<ProductDto> list2 = new ArrayList<>();
+		for(Product2 p : list) {
+			list2.add(new ProductDto(p.getNum(), p.getName(), p.getPrice(), p.getAmount(), p.getSeller()));
+		}
+		return list2; 
+	}
+	
+	public ArrayList<ProductDto> getByPrice(int p1, int p2){
+		List<Product2> list = dao.findByPriceBetween(p1, p2);
+		ArrayList<ProductDto> list2 = new ArrayList<>();
+		for(Product2 p : list) {
+			list2.add(new ProductDto(p.getNum(), p.getName(), p.getPrice(), p.getAmount(), p.getSeller()));
+		}
+		return list2; 
+	}
 
 }

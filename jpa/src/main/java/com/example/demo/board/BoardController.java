@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -58,4 +59,24 @@ public class BoardController {
 		service.delBoard(num);
 		return "redirect:/board/list";
 	}
+	
+	//작성자로 검색
+	@RequestMapping("/getbywriter")
+	public String getbywriter(String writer, Model map) {
+		ArrayList<BoardDto> list = service.getByWriter(writer);
+		map.addAttribute("list", list);
+		return "board/list";
+		
+	}
+	
+	//제목으로 검색
+	@RequestMapping("/getbytitle")
+	public String getbytitles(String title, Model map) {
+		ArrayList<BoardDto> list = service.getByTitle(title);
+		map.addAttribute("list", list);
+		return "board/list";
+	}
+	
+	
+	
 }

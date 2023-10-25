@@ -11,6 +11,7 @@ public class MemberService {
 	//추가, 수정
 	//jpa의 save(entity): 한줄추가, 전체컬럼수정, 방금 추가/수정한 객체를 반환
 	public MemberDto save(MemberDto dto) {
+		System.out.println(dto);
 		Member2 m2 = dao.save(new Member2(dto.getId(), dto.getPwd(), dto.getName(), dto.getEmail()));
 		return new MemberDto(m2.getId(), m2.getPwd(), m2.getName(), m2.getEmail());
 	}

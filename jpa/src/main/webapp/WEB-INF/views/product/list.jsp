@@ -59,6 +59,15 @@ $(document).ready(function(){
 </head>
 <body>
 <h3>상품목록</h3>
+<form action="/product/getbyname">
+상품명 : <input type="text" name="name"> <input type="submit" value="검색">
+</form>
+<form action="/product/getbyseller">
+판매자 : <input type="text" name="seller"> <input type="submit" value="검색">
+</form>
+<form action="/product/getbyprice">
+가격대 : <input type="text" name="p1"> ~ <input type="text" name="p2"> <input type="submit" value="검색">
+</form>
 <a href="/product/add">상품등록</a><br/>
 <table border="1">
 <tr><th>상품명</th><th>가격</th><th>판매자</th><th>수정/삭제</th></tr>

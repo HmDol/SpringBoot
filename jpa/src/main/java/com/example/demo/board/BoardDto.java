@@ -10,6 +10,9 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+
+// vo와 내용은 똑같지만 활요이 다름
+// dto는 데이터 운반에서 활용
 @Setter
 @Getter
 @NoArgsConstructor

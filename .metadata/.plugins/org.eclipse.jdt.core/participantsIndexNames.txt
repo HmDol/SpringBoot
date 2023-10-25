@@ -19,3 +19,5 @@ C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jsp
 \demo1\src\main\java
 C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2267777652.index
 \demo1\src\main\java
+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3422543364.index
+\jpa\src\main\java

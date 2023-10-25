@@ -21,6 +21,7 @@ public class MemberController {
 
 	@PostMapping("/join")
 	public String join(MemberDto m) {
+		System.out.println(m);
 		service.save(m);
 		return "redirect:/member/login";
 	}

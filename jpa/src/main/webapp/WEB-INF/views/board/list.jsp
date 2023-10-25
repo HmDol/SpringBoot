@@ -10,6 +10,12 @@
 <body>
 <h3>글목록</h3>
 <a href="/board/add">글작성</a><br/>
+<form action="/board/getbytitle">
+제목 : <input type ="text" name="title" > <input type="submit" value="검색"> 
+</form>
+<form action="/board/getbywriter">
+작성자 : <input type ="text" name="writer" > <input type="submit" value="검색"> 
+</form>
 <table border="1">
 <tr><th>글번호</th><th>제목</th><th>작성자</th></tr>
 <c:forEach var="b" items="${list }">
