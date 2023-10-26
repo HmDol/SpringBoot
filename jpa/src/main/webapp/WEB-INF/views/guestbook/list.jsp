@@ -1,4 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
 <html>
@@ -8,6 +9,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
+	let type = 1;//1:추가, 2:수정
 	$("#f").hide();
 	$("#writeForm").click(function(){
 		$("#save").val("작성");
@@ -15,78 +17,119 @@ $(document).ready(function(){
 		type = 1;
 	});
 	$("#save").click(function(){
-		let param={};
-		let content = ${"#save"}.val();
+		let param = {};
+		let content = $("#content").val();
 		if(type==1){
-			param={"writer":'${sessionScope.loginId}',"content":content, "type" : 1};
+			param = {"writer":'${sessionScope.loginId}', "content":content, "type":1};
 		}else{
-			param = {"num":$("#num").val(),"content":content, "type":2};
+			param = {"num":$("#num").val(), "content":content, "type":2};
 		}
 		$.ajax({
-			url:"/guestbook/save",
+			url:"/book/save",
 			type:"post",
 			data:param,
 			dataType:'json',
-			success:function(res){
+			success: function(res){//res: 받은 응답
 				if(type==1){
-				let html = "<table border=1";
-				html += "<tr> <th>방명번호</th>  <td>"+ res.num;
-				html += "<c:if test=\"'${sessionScope.loginId }'=="+res.writer+"\">";
-				html += "<input type='button' value='수정' class='edit'num='"+res.num+"'>";
-				html += "<input type='button' value='취소' class='cancel'>";
-				html += "</c:if>";
-				html += "</td></tr>";
-				html += "<tr> <th>작성자</th>  <td>"+ res.write +"</td> </tr>";
-				html += "<tr> <th>작성일</th>  <td>"+ res.wdate +"</td> </tr>";
-				html += "<tr> <th>내용</th>  <td id='cont_"+res.num+"'>"+res.content +"</td> </tr>";
-				html += "</table>";
-				$("#divlist").prepend(html);
-				
+					let html = "<table border=1 id='t_"+res.num+"'>";
+					html += "<tr><th>글번호</th><td>"+res.num;
+					if('${sessionScope.loginId }'==res.writer){
+						html += "<input type='button' value='수정' class='edit' num='"+res.num+"'>";
+						html += "<input type='button' value='삭제' class='del' num='"+res.num+"'>";
+					}
+					html += "</td></tr>";
+					html += "<tr><th>작성자</th><td>"+res.writer+"</td></tr>";
+					html += "<tr><th>작성일</th><td>"+res.wdate+"</td></tr>";
+					html += "<tr><th>내용</th><td id='cont_"+res.num+"'>"+res.content+"</td></tr>";
+					html += "</table>";
+					$("#divlist").prepend(html);
+					$(".edit").on("click", function(){
+						let num = $(this).attr("num");
+						$("#save").val("수정");
+						$("#content").val($("#cont_"+num).val());
+						$("#f").show();
+						type = 2;
+						$("#num").val(num);
+					});
+					$(".del").on("click", function(){
+						let num = $(this).attr("num");
+						$("#t_"+num).remove();//테이블 삭제
+						$.ajax({
+							url:"/book/del",
+							type:"post",
+							data:{"num":num},
+							dataType:'json',
+							success: function(res){//res: 받은 응답
+								
+							},
+							error: function(){
+								alert("error");
+							}
+						});
+					});
 				}else{
 					$("#cont_"+res.num).text(res.content);
 				}
 				$("#f").hide();
 				$("#content").val("");
 			},
-			error:function(){
+			error: function(){
 				alert("error");
 			}
 		});
 	});
 	$(".edit").click(function(){
-		$("#save").val("작성");
+		let num = $(this).attr("num");
+		$("#save").val("수정");
+		$("#content").val($("#cont_"+num).val());
 		$("#f").show();
 		type = 2;
 		$("#num").val(num);
+	});
+	$(".del").click(function(){
+		let num = $(this).attr("num");
+		$("#t_"+num).remove();//테이블 삭제
+		$.ajax({
+			url:"/book/del",
+			type:"post",
+			data:{"num":num},
+			dataType:'json',
+			success: function(res){//res: 받은 응답
+				
+			},
+			error: function(){
+				alert("error");
+			}
+		});
 	});
 });
 </script>
 </head>
 <body>
 <h3>방명록</h3>
-<input type="button" id="writeForm" value="글작성"><br>
+<input type="button" id="writeForm" value="글작성"><br/>
 <div id="divlist">
-<c:forEach var="m" items="${list }">
-<table border="1">
-<tr> <th>방명번호</th>  
+<c:forEach var="b" items="${list }">
+<table border="1" id="t_${b.num }">
+<tr><th>글번호</th>
 <td>
-	${m.num }
+	${b.num }
 	<c:if test="${b.writer.id == sessionScope.loginId }">
 		<input type="button" value="수정" class="edit" num="${b.num }">
-		<input type="button" value="취소" class="cancel" num="${b.num }">
+		<input type="button" value="삭제" class="del" num="${b.num }">
 	</c:if>
-</td> 
-</tr> 
-<tr> <th>작성자</th> <td>${m.writer.id }</td> </tr>
-<tr> <th>날짜</th> <td>${m.wdate }</td> </tr>
-<tr> <th>내용</th> <td id='cont_+${m.num }'>${m.content }</td></tr>
+</td>
+</tr>
+<tr><th>작성자</th><td>${b.writer.id }</td></tr>
+<tr><th>작성일</th><td>${b.wdate }</td></tr>
+<tr><th>내용</th><td id='cont_${b.num }'>${b.content }</td></tr>
 </table>
 </c:forEach>
 </div>
-<from id="f" action="guestbook/save" style="position: absolute; top: 83px; left:270px;">
-내용 : <input type="text" id="content">
+<form id="f" action="" style="position:absolute;top:100px;left:100px">
+내용:<input type="text" id="content">
 <input type="button" id="save" value="작성">
 <input type="hidden" id="num">
-</from>
+</form>
 </body>
 </html>
