@@ -8,9 +8,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<center>
 <h3>로그인 성공</h3>
 <table border="1">
-	<tr> <th>메뉴</th> <th> ${sessionScope.loginId } 님 로그인</th>
+	<tr> <th> ${sessionScope.loginId } 님 로그인</th>
 	<tr> 
 	<td style="width : 300px;">
 		<a href="/member/get?id=${sessionScope.loginId }">내정보 </a><br/>
@@ -20,11 +21,8 @@
 		<a href="/product/list">상품목록</a><br/>
 		<a href="/guestbook/list">방명록</a><br/>
 	</td>
-	<td style="width :500px; height: 300px;">
-		<jsp:include page="${view }"/> 
-	</td>
 </table>
-
+</center>
 
 </body>
 </html>

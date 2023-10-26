@@ -18,7 +18,7 @@ $(document).ready(function(){
 	});
 	$("#save").click(function(){
 		let param = {};
-		let content = $("#content").val();
+		let content = $("#content").val(); // val():입력 양식값을 읽고, 씀-> val('abcd'), text():태그사이의 내용을 읽고씀. html():태그 사이의 html코드를 읽고 씀
 		if(type==1){
 			param = {"writer":'${sessionScope.loginId}', "content":content, "type":1};
 		}else{
@@ -46,7 +46,7 @@ $(document).ready(function(){
 					$(".edit").on("click", function(){
 						let num = $(this).attr("num");
 						$("#save").val("수정");
-						$("#content").val($("#cont_"+num).val());
+						$("#content").val($("#cont_"+num).text());
 						$("#f").show();
 						type = 2;
 						$("#num").val(num);
@@ -78,16 +78,19 @@ $(document).ready(function(){
 			}
 		});
 	});
+	$(".cancel").click(function(){
+		$("#f").hide();
+	});
 	$(".edit").click(function(){
 		let num = $(this).attr("num");
 		$("#save").val("수정");
-		$("#content").val($("#cont_"+num).val());
+		$("#content").val($("#cont_"+num).text());
 		$("#f").show();
 		type = 2;
 		$("#num").val(num);
 	});
 	$(".del").click(function(){
-		let num = $(this).attr("num");
+		let num = $(this).attr("num"); //this:이벤트 발생 객체
 		$("#t_"+num).remove();//테이블 삭제
 		$.ajax({
 			url:"/book/del",
