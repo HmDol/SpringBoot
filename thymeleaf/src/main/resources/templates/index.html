@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<div th:if="${session.loginId == null}">
+	<a href="/member/join">회원가입</a>	<a href="/member/login">로그인</a> 
+</div>
+<div th:if="${session.loginId != null}">
+	<a th:href="@{/member/get(id=${session.loginId})}">내정보 </a><br/>
+	<a th:href="@{/member/del(id=${session.loginId})}">탈퇴 </a><br/>
+	<a href="/member/logout">로그아웃</a><br/>
+	<a href="/board/list">글목록</a><br/>
+	<a href="/imgboard/list">이미지보드</a><br/>
+	<a href="/data/list">자료실</a><br/>
+</div>
+</body>
+</html>

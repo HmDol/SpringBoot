@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h3>이미지 게시판</h3>
+<a href="/imgboard/add">글작성</a>
+<table border="1">
+<tr><th>num</th><th>title</th><th>writer</th></tr>
+<tr th:each="i:${list }">
+<td th:text="${i.num }"></td>
+<td><a th:href="@{/imgboard/edit(num=${i.num })}" th:text="${i.title }"></a></td>
+<td th:text="${i.writer.id }"></td>
+</tr>
+</table>
+</body>
+</html>

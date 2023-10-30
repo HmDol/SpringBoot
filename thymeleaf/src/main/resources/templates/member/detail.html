@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h3>회원정보</h3>
+<form action="/member/edit" method="post">
+id: <input type="text" name="id" th:value="${m.id }" readonly> <br/>
+pwd: <input type="text" name="pwd" th:value="${m.pwd }"> <br/>
+name: <input type="text" name="name" th:value="${m.name }"><br/>
+email: <input type="text" name="email" th:value="${m.email }" readonly><br/>
+<input type="submit" value="수정">
+<a th:href="@{/member/del(id=${m.id })}">삭제</a>
+</form>
+<a href="/">index</a>
+</body>
+</html>
