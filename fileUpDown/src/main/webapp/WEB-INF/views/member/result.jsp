@@ -17,6 +17,7 @@
 		<a href="/member/del?id=${sessionScope.loginId }">탈퇴 </a><br/>
 		<a href="/member/logout">로그아웃</a><br/>
 		<a href="/imgboard/list">이미지 게시판</a><br/>
+		<a href="/data/list">다운로드 게시판</a><br/>
 	
 </table>
 

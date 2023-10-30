@@ -60,7 +60,7 @@ public class ImgArticleController {
 	@RequestMapping("/detail")
 	public void detailForm(int num, ModelMap map) {
 		ImgArticleDto dto = service.getArticle(num);
-		map.addAttribute("i", dto);
+		map.addAttribute("dto", dto);
 	}
 
 	// 파일명을 파람으로 받아서 파일 내용을 복사하여 바이너리 형태의 응답으로 보내줌
@@ -77,7 +77,6 @@ public class ImgArticleController {
 			header.add("Content-Type", Files.probeContentType(f.toPath()));
 			result = new ResponseEntity<byte[]>(FileCopyUtils.copyToByteArray(f), header, HttpStatus.OK);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return result;
