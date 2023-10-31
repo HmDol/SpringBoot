@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Book2"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="multi"/>
+			<item value="Article"/>
+			<item value="ImgArticle"/>
 			<item value="GuestBook2"/>
 			<item value="Cotent"/>
 			<item value="imgboard"/>
@@ -20,6 +23,7 @@
 			<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Diary"/>
 			<item value="Book2"/>
 			<item value="Content"/>
 			<item value="data"/>
