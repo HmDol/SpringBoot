@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+//전역함수. 파람으로 book 한개 받아서 테이블로 만들어서 반환
+$.mkBook = function(b){
+	let html = "<table id='t_"+b.num+"' border='1'>";
+	html += "<tr><th>글번호</th><td>"+b.num+"</td></tr>";
+	html += "<tr><th>작성일</th><td>"+b.wdate+"</td></tr>";
+	html += "<tr><th>작성자</th><td>"+b.writer+"</td></tr>";
+	html += "<tr><th>내용</th><td>"+b.content+"</td></tr>";
+	html += "<tr><th>편집</th><td><input type='button' value='수정' class='editf' num='"+b.num+"'><input type='button' value='삭제' class='del' num='"+b.num+"'></td></tr>";
+	html += "</table>";
+	return html;
+}
+
+$.editform = function(){
+	let num  =$(this).attr("num");
+	//ajax요청으로 글번호 검색 받아와서 수정폼에 출력
+	$.ajax({
+		url:"/books/"+num,
+		type:"get",
+		dataType:'json',
+		success: function(res){//res: 받은 응답
+			$("#enum").val(res.dto.num);
+			$("#ewdate").val(res.dto.wdate);
+			$("#ewriter").val(res.dto.writer);
+			$("#econtent").val(res.dto.content);
+			$("#ff").show();
+		},
+		error:function(){
+			alert("error");
+		}
+	});
+	
+}
+
+$.del = function(){
+	let num  =$(this).attr("num");
+	$.ajax({
+		url:"/books/"+num,
+		type:"delete",
+		dataType:'json',
+		success: function(res){//res: 받은 응답
+			if(res.flag){
+				$("#t_"+num).remove();
+			}else{
+				alert("삭제에 문제가 있음");
+			}
+		},
+		error:function(){
+			alert("error");
+		}
+	});
+}
+$(document).ready(function(){
+	$("#ff").hide();
+	$.ajax({
+		url:"/books",
+		type:"get",
+		dataType:'json',
+		success: function(res){//res: 받은 응답
+			let list = res.list;
+			for(let b of list){
+				let html = $.mkBook(b);
+				$("#list").append(html);
+			}
+			$(".editf").on("click", $.editform);
+			$(".del").on("click", $.del);
+		},
+		error:function(){
+			alert("error");
+		}
+	});
+	$("#wbtn").click(function(){
+		let writer = $("#writer").val();
+		let content = $("#content").val();
+		$.ajax({
+			url:"/books",
+			type:"post",
+			data:{writer:writer, content:content},
+			dataType:'json',
+			success: function(res){//res: 받은 응답
+				if(res.flag){
+					let html = $.mkBook(res.dto);
+					$("#list").prepend(html);
+					$(".editf").on("click", $.editform);
+					$(".del").on("click", $.del);
+				}
+				$("#writer").val("");
+				$("#content").val("");
+			},
+			error:function(){
+				alert("error");
+			}
+		});
+	});
+	$("#cancel").click(function(){
+		$.clearForm();
+	});	
+	$("#ebtn").click(function(){
+		let num = $("#enum").val();
+		let content = $("#econtent").val();
+		$("#t_"+num).attr("id", "edittbl");
+		$.ajax({
+			url:"/books",
+			type:"put",
+			data:{num:num, content:content},
+			dataType:'json',
+			success: function(res){//res: 받은 응답
+				if(res.flag){
+					let html = $.mkBook(res.dto);
+					$("#edittbl").after(html);
+					$("#edittbl").remove();
+					$(".editf").on("click", $.editform);
+					$(".del").on("click", $.del);
+				}else{
+					alert("수정에 문제가 있음");
+					$("#edittbl").attr("id", "t_"+num);//id를 원래값으로 되돌림
+				}
+				
+			},
+			error:function(){
+				alert("error");
+			}
+		});
+		$.clearForm();
+	});	
+});
+$.clearForm = function(){
+	$("#enum").val("");
+	$("#ewdate").val("");
+	$("#ewriter").val("");
+	$("#econtent").val("");
+	$("#ff").hide();
+}
+</script>
+</head>
+<body>
+<h3>방명록</h3>
+<form id="f">
+	작성자: <input type="text" id="writer"><br/>
+	내용: <input type="text" id="content"><br/>
+	<input type="button" id="wbtn" value="작성"><br/>
+</form>
+<form id="ff" style="position: absolute;top: 50px;left: 50px;background-color: antiquewhite;">
+	글번호: <input type="text" id="enum" readonly><br/>
+	작성일: <input type="text" id="ewdate" readonly><br/>
+	작성자: <input type="text" id="ewriter" readonly><br/>
+	내용: <input type="text" id="econtent"><br/>
+	<input type="button" id="ebtn" value="수정">
+	<input type="button" id="cancel" value="취소"><br/>
+</form>
+<div id="list"></div>
+</body>
+</html>
