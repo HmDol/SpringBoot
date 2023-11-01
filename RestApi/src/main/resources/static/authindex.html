@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#loginf").hide();
+	$("#myinfof").hide();
+	$("#res").html("");
+	let flag = sessionStorage.getItem("loginflag");
+	if(flag != null && flag =='true'){
+		$("#alogin").show();
+		$("#blogin").hide();
+	}else{
+		$("#alogin").hide();
+		$("#blogin").show();
+	}
+});	
+	
+$(document).ready(function(){
+	$("#loginf").hide();
+	
+	$("#loginfbtn").click(function(){
+		$("#loginf").show();
+	});
+	$("#closebtn").click(function(){
+		$("#eid").val("");
+		$("#epwd").val("");
+		$("#ename").val("");
+		$("#eemail").val("");
+		$("#myinfof").hide();
+	});
+	
+	//수정
+	$("#eidtbtn").on("click",function(){
+		let token = localStorage.getItem("token");
+		let param ={id:$("#eid").val(), pwd:$("#epwd").val, name:$("#ename").val, email:$("#eemail").val}
+		$.ajax({
+			url:"/member",
+			type:"put",
+			headers:{'token':token},
+			dataType:'json',
+			data:param,
+			success:function(res){
+				if(res.flag){
+					alert("수정완료");
+					$("#eid").val("");
+					$("#epwd").val("");
+					$("#ename").val("");
+					$("#eemail").val("");
+					$("#myinfof").hide();
+				}else{
+					alert("정보수정 실패");
+				}
+			},
+			error:function(){
+				alert("error")	
+			}
+		});
+	});
+	
+	//마이 인포박스 열기
+	$("#myinfobtn").on("click",function(){
+		let token = localStorage.getItem("token");
+		$.ajax({
+			url:"/member",
+			type:"get",
+			headers:{'token':token},
+			dataType:'json',
+			success:function(res){
+				$("#eid").val(res.dto.id);
+				$("#epwd").val(res.dto.pwd);
+				$("#ename").val(res.dto.name);
+				$("#email").val(res.dto.email);
+			},
+			error:function(){
+				alert("error")	
+			}
+		});
+	});
+		
+	$("#loginbtn").click(function(){
+		let param = { id: $("#id").val(), pwd: $("#pwd").val() };
+		$.ajax({
+			url:"/member/auth",
+			type:"get",
+			data:param,
+			dataType:'json',
+			success: function(res){//res: 받은 응답
+				if(res.flag){
+					let token = res.token;
+					sessionStorage.setItem("token",token);
+					sessionStorage.setItem("loginflag",true);
+					location.reload();
+					
+				}else{
+					alert("로그인에 문제가 있음");
+				}
+				$("#loginf").hide();
+			},
+			error:function(){
+				alert("error");
+			}
+		});
+	});
+	
+	//로그아웃 버튼
+	$("#logoutbtn").click(function(){
+		sessionStorage.removeItem("token");
+		sessionStorage.removeItem("loginflag");
+		location.reload();
+	});
+});
+</script>
+</head>
+<body>
+<로그인>
+<form id ="loginf">
+	id : <input id="id" type="text" name="id" ><br>
+	pwd : <input id="pwd" type="text" name="pwd" ><br>
+	<input type="button" id="loginbtn" value="로그인" >
+</form>
+<div id ="blogin">
+	<input type="button" id="loginfbtn" value="login">
+	<input type="button" id="joinbtn" value="join">
+</div>
+<div id ="alogin">
+	<input type="button" id="myinfobtn" value="myinfo">
+	<input type="button" id="logoutbtn" value="logout">
+	<div id="res">
+		
+	</div>
+</div>
+<div id ="myinfof">
+	id : <input id="eid" type="text" name="id" ><br>
+	pwd : <input id="epwd" type="text" name="pwd" ><br>
+	name : <input id="ename" type="text" name="name" ><br>
+	email : <input id="eemail" type="text" name="email" ><br>
+	<input id="editbtn" type="button" name="수정" ><br>
+	<input id="closebtn" type="button" name="창닫기" ><br>
+</div>
+</body>
+</html>
