@@ -1,7 +1,6 @@
 INDEX VERSION 1.4+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1733541474.index
+794217213.index
 2507180509.index
-3295419645.index
 1500549298.index
 1815466097.index
 880385516.index
@@ -12,4 +11,3 @@ INDEX VERSION 1.4+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclips
 1405678307.index
 4032104904.index
 4014263395.index
-2526310704.index

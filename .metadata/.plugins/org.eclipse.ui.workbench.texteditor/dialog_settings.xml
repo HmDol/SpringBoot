@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="#loginf"/>
+		<item key="selection" value="Selector"/>
 		<list key="findhistory">
+			<item value="selector"/>
 			<item value="#f"/>
 			<item value="Shopmember"/>
 			<item value="ShopmemberDto"/>
@@ -22,7 +23,6 @@
 			<item value="Board2"/>
 			<item value="pwd"/>
 			<item value="id"/>
-			<item value="member"/>
 		</list>
 		<list key="replacehistory">
 			<item value="#loginf"/>
