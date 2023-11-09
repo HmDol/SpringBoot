@@ -34,7 +34,7 @@ public class SecurityConfiguration {
 		http.csrf().disable()
 				.authorizeHttpRequests((authz) -> authz
 						.dispatcherTypeMatchers(DispatcherType.FORWARD).permitAll()
-						.requestMatchers("/","/join", "/error", "/login").permitAll()
+						.requestMatchers("/","/join","/error","/login").permitAll()
 						.requestMatchers("/auth/**").authenticated()
 						.anyRequest().permitAll()
 						)

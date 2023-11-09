@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Selector"/>
+		<item key="selection" value="picture"/>
 		<list key="findhistory">
+			<item value="profile"/>
 			<item value="selector"/>
 			<item value="#f"/>
 			<item value="Shopmember"/>
@@ -22,9 +23,9 @@
 			<item value="Board"/>
 			<item value="Board2"/>
 			<item value="pwd"/>
-			<item value="id"/>
 		</list>
 		<list key="replacehistory">
+			<item value="picture"/>
 			<item value="#loginf"/>
 			<item value="Member"/>
 			<item value="MemberDto"/>
