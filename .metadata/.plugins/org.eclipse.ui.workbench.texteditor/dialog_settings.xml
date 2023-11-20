@@ -6,8 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="picture"/>
+		<item key="selection" value="info"/>
 		<list key="findhistory">
+			<item value="info"/>
+			<item value="&lt;style&gt;"/>
 			<item value="profile"/>
 			<item value="selector"/>
 			<item value="#f"/>
@@ -21,8 +23,6 @@
 			<item value="imgboard"/>
 			<item value="Book"/>
 			<item value="Board"/>
-			<item value="Board2"/>
-			<item value="pwd"/>
 		</list>
 		<list key="replacehistory">
 			<item value="picture"/>

@@ -6651,3 +6651,777 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2023-11-09 16:58:10,157 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-11-09 16:58:10,163 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-11-09 16:58:10,171 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-09 17:00:58,029 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-09 17:00:58,042 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-09 17:00:58,054 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 10:12:33,721 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-10 10:13:14,275 [Worker-20: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:AWS:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\AWS\pom.xml.
+2023-11-10 10:13:23,156 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/main/java
+2023-11-10 10:13:23,157 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:23,168 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:23,178 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/test/java
+2023-11-10 10:13:23,178 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/test/resources
+2023-11-10 10:13:29,031 [Worker-20: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2023-11-10 10:13:29,037 [Worker-20: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-10 10:13:29,781 [Worker-20: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:AWS:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\AWS\pom.xml.
+2023-11-10 10:13:31,128 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/main/java
+2023-11-10 10:13:31,128 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:31,129 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:31,131 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/test/java
+2023-11-10 10:13:31,131 [Worker-20: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/test/resources
+2023-11-10 10:13:32,790 [Worker-20: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AWS
+2023-11-10 10:13:32,876 [Worker-20: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-11-10 10:13:33,447 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-10 10:13:34,464 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:AWS:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\AWS\pom.xml.
+2023-11-10 10:13:35,779 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/main/java
+2023-11-10 10:13:35,779 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:35,780 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/main/resources
+2023-11-10 10:13:35,780 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AWS/src/test/java
+2023-11-10 10:13:35,780 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /AWS/src/test/resources
+2023-11-10 10:13:36,747 [Worker-21: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AWS
+2023-11-10 10:13:36,823 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-11-10 10:13:39,561 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 10:13:39,783 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:13:39,802 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:13:39,803 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AWS
+2023-11-10 10:13:39,805 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AWS
+2023-11-10 10:14:03,527 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 10:14:03,548 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:14:03,558 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:14:18,836 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:14:18,844 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:14:18,849 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:14:27,902 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:14:27,907 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 10:14:27,923 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:14:45,393 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:14:45,397 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 10:14:45,407 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:15:28,693 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 10:15:28,729 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 10:15:28,758 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-10 10:16:29,391 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-11-10 10:16:49,030 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [1717])
+2023-11-10 10:16:49,036 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-11-10 10:16:49,037 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-11-10 10:16:49,037 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-11-10 10:16:49,037 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-11-10 10:16:49,038 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-11-10 10:16:49,038 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-11-10 10:16:49,039 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-11-10 10:16:49,039 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-11-10 10:16:49,040 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-11-10 10:16:49,040 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-11-10 10:16:49,041 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-11-10 10:16:49,041 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-11-10 10:16:49,042 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-11-10 10:16:49,042 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-11-10 10:16:49,042 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-11-10 10:16:49,043 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-11-10 10:16:49,044 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-11-10 10:16:49,044 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-11-10 10:16:49,045 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-11-10 10:16:49,045 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-11-10 10:16:49,046 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-11-10 10:16:49,046 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-11-10 10:16:49,046 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-11-10 10:16:49,047 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-11-10 10:16:49,048 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-11-10 10:16:49,049 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-11-10 10:16:49,050 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-11-10 10:16:49,051 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-11-10 10:16:49,052 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-11-10 10:16:49,052 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-11-10 10:16:49,053 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-11-10 10:16:49,053 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-11-10 10:16:49,054 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-11-10 10:16:49,054 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-11-10 10:16:49,054 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-11-10 10:16:49,055 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-11-10 10:16:49,055 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-11-10 10:16:49,056 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-11-10 10:16:49,056 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-11-10 10:16:49,058 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [1095])
+2023-11-10 10:16:49,060 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava_32.1.2.jre.jar
+2023-11-10 10:16:49,060 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.7 [1945])
+2023-11-10 10:16:49,061 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\slf4j.api_2.0.7.jar
+2023-11-10 10:16:49,062 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [30])
+2023-11-10 10:16:49,062 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-11-10 10:16:49,062 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1235])
+2023-11-10 10:16:49,063 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2023-11-10 10:16:49,064 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [1258])
+2023-11-10 10:16:49,066 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.apache.commons.cli_1.5.0.jar
+2023-11-10 10:16:49,067 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [1097])
+2023-11-10 10:16:49,068 [Worker-12: Launching AWS] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-11-10 10:16:49,074 [Worker-12: Launching AWS] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vtwin\Java_Cloud\spring\AWS":
+2023-11-10 10:16:49,075 [Worker-12: Launching AWS] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always pakage
+2023-11-10 10:19:31,535 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-11-10 10:29:08,576 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-11-10 10:29:48,569 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [1717])
+2023-11-10 10:29:48,571 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-11-10 10:29:48,573 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-11-10 10:29:48,574 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-11-10 10:29:48,578 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-11-10 10:29:48,579 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-11-10 10:29:48,581 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-11-10 10:29:48,581 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-11-10 10:29:48,582 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-11-10 10:29:48,583 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-11-10 10:29:48,583 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-11-10 10:29:48,585 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-11-10 10:29:48,585 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-11-10 10:29:48,587 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-11-10 10:29:48,588 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-11-10 10:29:48,588 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-11-10 10:29:48,589 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-11-10 10:29:48,590 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-11-10 10:29:48,592 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-11-10 10:29:48,593 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-11-10 10:29:48,594 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-11-10 10:29:48,596 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-11-10 10:29:48,598 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-11-10 10:29:48,599 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-11-10 10:29:48,599 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-11-10 10:29:48,600 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-11-10 10:29:48,601 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-11-10 10:29:48,602 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-11-10 10:29:48,603 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-11-10 10:29:48,604 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-11-10 10:29:48,606 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-11-10 10:29:48,607 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-11-10 10:29:48,610 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-11-10 10:29:48,611 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-11-10 10:29:48,612 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-11-10 10:29:48,613 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-11-10 10:29:48,614 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-11-10 10:29:48,615 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-11-10 10:29:48,616 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-11-10 10:29:48,617 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-11-10 10:29:48,618 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [1095])
+2023-11-10 10:29:48,619 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava_32.1.2.jre.jar
+2023-11-10 10:29:48,620 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.7 [1945])
+2023-11-10 10:29:48,621 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\slf4j.api_2.0.7.jar
+2023-11-10 10:29:48,621 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [30])
+2023-11-10 10:29:48,622 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-11-10 10:29:48,623 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1235])
+2023-11-10 10:29:48,626 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2023-11-10 10:29:48,627 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [1258])
+2023-11-10 10:29:48,629 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.apache.commons.cli_1.5.0.jar
+2023-11-10 10:29:48,629 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [1097])
+2023-11-10 10:29:48,631 [Worker-26: Launching AWS (2)] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-11-10 10:29:48,637 [Worker-26: Launching AWS (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vtwin\Java_Cloud\spring\AWS":
+2023-11-10 10:29:48,638 [Worker-26: Launching AWS (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppom.xml -B -Dstyle.color=always package
+2023-11-10 12:03:10,993 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-11-10 12:03:31,393 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755 [1717])
+2023-11-10 12:03:31,395 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755
+2023-11-10 12:03:31,396 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aether-connector-okhttp-0.17.8.jar
+2023-11-10 12:03:31,398 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\aopalliance-1.0.jar
+2023-11-10 12:03:31,400 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\commons-lang3-3.12.0.jar
+2023-11-10 12:03:31,402 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\guice-5.1.0.jar
+2023-11-10 12:03:31,403 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\jansi-2.4.0.jar
+2023-11-10 12:03:31,403 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-artifact-3.9.4.jar
+2023-11-10 12:03:31,404 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-builder-support-3.9.4.jar
+2023-11-10 12:03:31,405 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-compat-3.9.4.jar
+2023-11-10 12:03:31,406 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-core-3.9.4.jar
+2023-11-10 12:03:31,406 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-embedder-3.9.4.jar
+2023-11-10 12:03:31,408 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-3.9.4.jar
+2023-11-10 12:03:31,409 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-model-builder-3.9.4.jar
+2023-11-10 12:03:31,410 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-plugin-api-3.9.4.jar
+2023-11-10 12:03:31,411 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-repository-metadata-3.9.4.jar
+2023-11-10 12:03:31,411 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-api-1.9.14.jar
+2023-11-10 12:03:31,412 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-connector-basic-1.9.14.jar
+2023-11-10 12:03:31,413 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-impl-1.9.14.jar
+2023-11-10 12:03:31,413 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-named-locks-1.9.14.jar
+2023-11-10 12:03:31,414 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-provider-3.9.4.jar
+2023-11-10 12:03:31,416 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-spi-1.9.14.jar
+2023-11-10 12:03:31,417 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-transport-wagon-1.9.14.jar
+2023-11-10 12:03:31,420 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-resolver-util-1.9.14.jar
+2023-11-10 12:03:31,421 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-3.9.4.jar
+2023-11-10 12:03:31,421 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-settings-builder-3.9.4.jar
+2023-11-10 12:03:31,422 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\maven-shared-utils-3.3.4.jar
+2023-11-10 12:03:31,423 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okhttp-3.14.1.jar
+2023-11-10 12:03:31,424 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\okio-1.17.3.jar
+2023-11-10 12:03:31,425 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-11-10 12:03:31,425 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-11-10 12:03:31,427 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-build-api-0.0.7.jar
+2023-11-10 12:03:31,428 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-cipher-2.0.jar
+2023-11-10 12:03:31,429 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-classworlds-2.7.0.jar
+2023-11-10 12:03:31,430 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-component-annotations-2.1.0.jar
+2023-11-10 12:03:31,431 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-interpolation-1.26.jar
+2023-11-10 12:03:31,431 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-sec-dispatcher-2.0.jar
+2023-11-10 12:03:31,432 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\plexus-utils-3.5.1.jar
+2023-11-10 12:03:31,433 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-file-3.5.3.jar
+2023-11-10 12:03:31,434 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.400.20230826-0755\jars\wagon-provider-api-3.5.3.jar
+2023-11-10 12:03:31,436 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_32.1.2.jre [1095])
+2023-11-10 12:03:31,439 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava_32.1.2.jre.jar
+2023-11-10 12:03:31,439 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.7 [1945])
+2023-11-10 12:03:31,440 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\slf4j.api_2.0.7.jar
+2023-11-10 12:03:31,441 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [30])
+2023-11-10 12:03:31,442 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-11-10 12:03:31,442 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20230504-0748 [1235])
+2023-11-10 12:03:31,444 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\javax.annotation_1.3.5.v20230504-0748.jar
+2023-11-10 12:03:31,444 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.5.0 [1258])
+2023-11-10 12:03:31,447 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\org.apache.commons.cli_1.5.0.jar
+2023-11-10 12:03:31,447 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [1097])
+2023-11-10 12:03:31,449 [Worker-30: Launching thymeleaf] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vtwin\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-11-10 12:03:31,454 [Worker-30: Launching thymeleaf] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\vtwin\Java_Cloud\spring\thymeleaf":
+2023-11-10 12:03:31,454 [Worker-30: Launching thymeleaf] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -Ppoem.xml -B -Dstyle.color=always pakage
+2023-11-10 12:03:49,276 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2023-11-10 15:44:57,656 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-10 15:44:57,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2023-11-10 15:44:57,733 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 15:45:01,890 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 15:45:01,919 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 15:45:01,930 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:15:50,829 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:15:50,836 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:15:50,852 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:22:44,101 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:22:44,108 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:22:44,117 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:24:28,116 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:24:28,124 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:24:28,134 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:24:54,979 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:24:54,986 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:24:54,992 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:26:16,159 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:26:16,209 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:26:16,217 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:26:26,524 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:26:26,531 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:26:26,540 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:27:03,658 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:27:03,681 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:27:03,700 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:28:36,455 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:28:36,484 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:28:36,518 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:29:21,112 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:29:21,118 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:29:21,126 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:31:11,478 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:31:11,487 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:31:11,496 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:31:13,020 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:31:13,028 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:31:13,036 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:33:35,151 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:33:35,158 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:33:35,167 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:34:01,891 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:34:01,898 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:34:01,907 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:34:41,577 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:34:41,584 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:34:41,597 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:34:47,314 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:34:47,321 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:34:47,329 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:35:00,971 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-10 17:35:00,978 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-10 17:35:00,986 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-10 17:40:28,381 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-10 17:40:28,415 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2023-11-10 17:40:28,442 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-11 18:52:56,504 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-13 11:25:20,391 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-13 11:34:05,201 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-13 11:34:05,294 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 9 resources from src\main\resources to target\classes
+2023-11-13 11:34:05,346 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 11:40:25,242 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 11:40:25,258 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-13 11:40:25,297 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 11:40:34,316 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 11:40:34,332 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-13 11:40:34,355 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 15:30:00,093 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 15:30:00,102 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-13 15:30:00,113 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 15:30:06,586 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 15:30:06,594 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-13 15:30:06,603 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 15:30:16,816 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 15:30:16,823 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-13 15:30:16,831 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-13 15:36:15,392 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-13 15:36:15,400 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2023-11-13 15:36:15,438 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:24:20,136 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-14 09:26:53,043 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-14 09:26:53,136 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2023-11-14 09:26:53,159 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:33:37,137 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:33:37,154 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:33:37,179 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:34:09,938 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:34:09,944 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2023-11-14 09:34:09,974 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:34:36,346 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:34:36,353 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2023-11-14 09:34:36,373 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:35:08,383 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:35:08,392 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:35:08,403 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:35:17,161 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:35:17,173 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:35:17,182 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:35:19,872 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:35:19,883 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:35:19,898 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:53:54,762 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:53:54,769 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:53:54,779 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:56:07,168 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:56:07,175 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:56:07,184 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:56:37,828 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:56:37,835 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:56:37,844 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 09:57:00,859 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 09:57:00,866 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 09:57:00,875 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:04:05,466 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:04:05,476 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:04:05,485 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:04:50,687 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:04:50,693 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:04:50,703 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:05:19,374 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:05:19,382 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:05:19,391 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:05:54,731 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:05:54,740 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:05:54,747 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:06:40,884 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:06:40,892 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:06:40,901 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:13:21,803 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:13:21,811 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:13:21,821 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:13:29,229 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:13:29,257 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:13:29,273 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:13:44,290 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:13:44,297 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:13:44,306 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:13:52,467 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:13:52,474 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:13:52,482 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:14:10,955 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:14:10,962 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:14:10,970 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:16:01,552 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:16:01,559 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:16:01,567 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:26:48,077 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:26:48,084 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:26:48,092 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:27:28,593 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:27:28,601 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:27:28,613 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:28:07,451 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:28:07,458 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:28:07,466 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:30:58,527 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:30:58,535 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:30:58,542 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:31:20,915 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:31:20,929 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:31:20,946 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:32:28,286 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:32:28,295 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:32:28,304 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:33:22,137 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:33:22,152 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:33:22,170 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:33:40,875 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:33:40,884 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:33:40,893 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:33:48,350 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:33:48,366 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:33:48,397 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:34:36,887 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:34:36,905 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:34:36,926 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:35:39,826 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:35:39,840 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:35:39,857 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:36:08,073 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:36:08,094 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:36:08,111 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:36:14,104 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:36:14,147 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:36:14,170 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:39:36,603 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:39:36,627 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:39:36,647 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:39:44,634 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:39:44,645 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:39:44,658 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:40:05,745 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:40:05,766 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:40:05,796 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:40:15,799 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:40:15,814 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:40:15,835 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:40:32,736 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:40:32,766 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:40:32,793 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:44:40,177 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:44:40,192 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:44:40,206 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:44:58,529 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:44:58,537 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:44:58,547 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:45:06,222 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:45:06,234 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:45:06,246 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:47:39,997 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:47:40,006 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:47:40,017 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:48:04,384 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:48:04,394 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:48:04,407 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 10:48:35,067 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 10:48:35,092 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 10:48:35,107 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:00:04,362 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:00:04,371 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:00:04,380 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:02:50,204 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:02:50,217 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:02:50,230 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:03:12,711 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:03:12,722 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:03:12,735 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:03:48,591 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:03:48,601 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:03:48,610 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:03:59,639 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:03:59,648 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:03:59,659 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:04:33,364 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:04:33,373 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:04:33,385 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:07:09,679 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:07:09,691 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:07:09,701 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:07:34,699 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:07:34,707 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:07:34,717 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:11:11,311 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:11:11,321 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:11:11,335 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:12:19,857 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:12:19,886 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:12:19,904 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:12:27,040 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:12:27,048 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:12:27,058 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:13:23,505 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:13:23,513 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:13:23,525 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:13:45,804 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:13:45,812 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:13:45,821 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:19:19,624 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:19:19,635 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:19:19,646 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:19:39,701 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:19:39,712 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:19:39,721 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:06,810 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:06,823 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:06,837 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:25,269 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:25,280 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:25,292 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:32,166 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:32,185 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:32,200 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:33,561 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:33,572 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:33,583 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:51,463 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:51,475 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:51,513 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:20:58,249 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:20:58,258 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:20:58,278 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:21:10,917 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:21:10,928 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:21:10,941 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:21:28,479 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:21:28,493 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:21:28,507 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:21:34,371 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:21:34,388 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:21:34,400 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:22:55,975 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:22:55,993 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:22:56,013 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:23:08,988 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:23:09,006 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:23:09,024 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:23:29,178 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:23:29,218 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:23:29,267 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:23:47,028 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:23:47,038 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:23:47,050 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:24:15,596 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:24:15,609 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:24:15,625 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:24:26,197 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:24:26,212 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:24:26,228 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:24:46,257 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:24:46,273 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:24:46,285 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:24:50,829 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:24:50,840 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:24:50,856 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:25:20,555 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:25:20,591 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:25:20,617 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:25:51,495 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:25:51,510 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:25:51,526 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:26:11,988 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:26:11,998 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:26:12,013 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:27:09,858 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:27:09,875 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:27:09,891 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:27:55,871 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:27:55,887 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:27:55,899 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:28:41,666 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:28:41,674 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:28:41,688 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:30:22,070 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:30:22,088 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:30:22,107 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:32:16,871 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:32:16,894 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:32:16,918 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:50:55,668 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:50:55,683 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:50:55,701 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:51:29,061 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:51:29,076 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:51:29,095 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:51:54,694 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:51:54,704 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:51:54,715 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:52:38,895 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:52:38,906 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:52:38,918 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:53:05,197 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:53:05,206 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:53:05,217 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:53:15,183 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:53:15,190 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:53:15,202 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:53:51,788 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:53:51,795 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:53:51,806 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:54:25,794 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:54:25,826 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:54:25,858 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:54:32,460 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:54:32,478 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:54:32,529 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:54:54,436 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:54:54,458 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:54:54,486 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:55:24,784 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:55:24,796 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:55:24,809 [Worker-99: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 11:55:39,784 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-14 11:55:39,795 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-14 11:55:39,812 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-14 17:27:26,171 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-15 16:03:40,358 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-15 16:04:20,872 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:20,907 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:20,923 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-15 16:04:30,623 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:30,648 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2023-11-15 16:04:30,683 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\RestApi\src\test\resources
+2023-11-15 16:04:35,068 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:35,101 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:35,114 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\auth-token\src\test\resources
+2023-11-15 16:04:42,332 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:42,392 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:04:42,410 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 16:04:50,743 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:50,780 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:04:50,793 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 16:04:56,396 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:04:56,446 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:04:56,458 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\fileUpDown\src\test\resources
+2023-11-15 16:05:01,671 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:05:01,700 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:05:01,711 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 16:05:05,917 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:05:05,949 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:05:05,958 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 16:05:10,506 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:05:10,542 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2023-11-15 16:05:10,672 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\thymeleaf\src\test\resources
+2023-11-15 16:05:39,783 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-15 16:05:41,350 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.project:crewz:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\crewz\pom.xml.
+2023-11-15 16:05:45,904 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/main/java
+2023-11-15 16:05:45,905 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-15 16:05:45,934 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-15 16:05:45,967 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/test/java
+2023-11-15 16:05:45,968 [Worker-21: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/test/resources
+2023-11-15 16:05:48,214 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:05:48,238 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 106 resources from src\main\resources to target\classes
+2023-11-15 16:05:48,660 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 16:05:52,439 [Worker-21: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 8.00 sec 
+2023-11-15 16:05:53,080 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:05:53,119 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 106 resources from src\main\resources to target\classes
+2023-11-15 16:05:53,525 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 16:08:43,658 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:08:43,709 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 106 resources from src\main\resources to target\classes
+2023-11-15 16:08:43,859 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 16:10:39,866 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 16:10:39,949 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 16:10:39,955 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 17:01:56,050 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:01:56,199 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:01:56,207 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 17:05:26,160 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AWS
+2023-11-15 17:05:26,380 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RestApi
+2023-11-15 17:05:26,554 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for auth-token
+2023-11-15 17:05:26,961 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for crewz
+2023-11-15 17:05:27,178 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for dataroom
+2023-11-15 17:05:27,320 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo1
+2023-11-15 17:05:27,465 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for fileUpDown
+2023-11-15 17:05:27,699 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for jpa
+2023-11-15 17:05:27,850 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for mybatis
+2023-11-15 17:05:28,032 [Worker-30: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for thymeleaf
+2023-11-15 17:05:28,544 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:28,551 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:28,569 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-15 17:05:28,570 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AWS
+2023-11-15 17:05:28,575 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AWS
+2023-11-15 17:05:30,072 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:30,080 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2023-11-15 17:05:30,115 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\RestApi\src\test\resources
+2023-11-15 17:05:30,116 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RestApi
+2023-11-15 17:05:30,116 [Worker-37: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RestApi
+2023-11-15 17:05:31,165 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:31,170 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:31,186 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\auth-token\src\test\resources
+2023-11-15 17:05:31,186 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of auth-token
+2023-11-15 17:05:31,187 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for auth-token
+2023-11-15 17:05:32,026 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-15 17:05:32,039 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 106 resources from src\main\resources to target\classes
+2023-11-15 17:05:32,503 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-15 17:05:32,504 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of crewz
+2023-11-15 17:05:32,504 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for crewz
+2023-11-15 17:05:33,914 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:33,922 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:05:33,932 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 17:05:33,933 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of dataroom
+2023-11-15 17:05:33,933 [Worker-35: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for dataroom
+2023-11-15 17:05:35,099 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:35,106 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:05:35,114 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 17:05:35,114 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo1
+2023-11-15 17:05:35,114 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo1
+2023-11-15 17:05:37,258 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:37,409 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:05:37,429 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\fileUpDown\src\test\resources
+2023-11-15 17:05:37,430 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of fileUpDown
+2023-11-15 17:05:37,430 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for fileUpDown
+2023-11-15 17:05:39,878 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:39,890 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:05:39,906 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 17:05:39,907 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of jpa
+2023-11-15 17:05:39,907 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for jpa
+2023-11-15 17:05:41,114 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:41,126 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:05:41,141 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-15 17:05:41,141 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of mybatis
+2023-11-15 17:05:41,141 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for mybatis
+2023-11-15 17:05:43,177 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-15 17:05:43,206 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2023-11-15 17:05:43,580 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\thymeleaf\src\test\resources
+2023-11-15 17:05:43,584 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of thymeleaf
+2023-11-15 17:05:43,585 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for thymeleaf
+2023-11-15 17:11:16,370 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-15 17:11:16,458 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2023-11-15 17:11:16,522 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 08:02:57,027 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-20 11:14:49,293 [Worker-62: Launching dataroom - DataroomApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-11-20 11:14:49,972 [Worker-62: Launching dataroom - DataroomApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 11:14:50,021 [Worker-62: Launching dataroom - DataroomApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 11:14:50,037 [Worker-62: Launching dataroom - DataroomApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-20 12:28:00,147 [Worker-79: Launching crewz - CrewzApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-11-20 12:28:00,712 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 12:28:00,827 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 12:28:01,481 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 12:28:28,319 [Worker-84: Launching crewz - CrewzApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-11-20 12:28:28,447 [Worker-84: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 12:28:28,536 [Worker-84: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 12:28:28,932 [Worker-84: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 14:34:13,975 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-20 15:00:19,047 [Worker-28: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 15:00:19,101 [Worker-28: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 15:00:19,236 [Worker-28: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 15:08:32,464 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 15:08:32,528 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 15:08:32,537 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 15:27:29,664 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 15:27:29,727 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 15:27:29,901 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 15:32:22,489 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 15:32:22,550 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 15:32:22,563 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 15:46:28,668 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 15:46:28,726 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 15:46:28,736 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 15:49:33,888 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 15:49:33,948 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 15:49:33,957 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 16:15:45,936 [Worker-83: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 16:15:46,006 [Worker-83: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 16:15:46,115 [Worker-83: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 16:27:21,842 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 16:27:21,926 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 16:27:22,057 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 16:38:02,649 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-20 16:38:02,784 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-20 16:38:02,802 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 16:58:30,177 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 16:58:30,234 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 16:58:30,342 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:00:21,208 [Worker-99: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:00:21,288 [Worker-99: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:00:21,390 [Worker-99: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:06:45,708 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:06:45,775 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:06:45,892 [Worker-113: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:07:55,877 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:07:55,927 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:07:56,031 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:08:52,186 [Worker-118: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:08:52,269 [Worker-118: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:08:52,381 [Worker-118: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:20:38,387 [Worker-126: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:20:38,453 [Worker-126: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:20:38,768 [Worker-126: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:24:52,537 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:24:52,598 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:24:52,747 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:28:17,831 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:28:17,877 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:28:18,002 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 17:38:32,706 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-20 17:38:32,762 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-20 17:38:32,920 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources

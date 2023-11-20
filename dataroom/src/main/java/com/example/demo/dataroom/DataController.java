@@ -78,6 +78,7 @@ public class DataController {
 		m.addAttribute("num", num);
 		return "data/down";
 	}
+	
 	@RequestMapping("/down")
 	public ResponseEntity<byte[]> down(String fname, int num){//fname: 파일명
 		File f = new File(path + fname);//파일 객체 생성

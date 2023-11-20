@@ -67,7 +67,7 @@ public class MemberController {
     		flag = true;
     		service.save(dto);
     	}
-    	map.put("fla", flag);
+    	map.put("flag", flag);
  
     	return map;
     }
