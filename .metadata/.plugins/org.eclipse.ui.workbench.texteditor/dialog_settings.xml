@@ -6,8 +6,11 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="info"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="somoim("/>
+			<item value="[["/>
+			<item value="8"/>
 			<item value="info"/>
 			<item value="&lt;style&gt;"/>
 			<item value="profile"/>
@@ -20,11 +23,9 @@
 			<item value="ImgArticle"/>
 			<item value="GuestBook2"/>
 			<item value="Cotent"/>
-			<item value="imgboard"/>
-			<item value="Book"/>
-			<item value="Board"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 			<item value="picture"/>
 			<item value="#loginf"/>
 			<item value="Member"/>
@@ -41,8 +42,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1445"/>
-		<item key="DIALOG_Y_ORIGIN" value="316"/>
+		<item key="DIALOG_X_ORIGIN" value="736"/>
+		<item key="DIALOG_Y_ORIGIN" value="287"/>
 		<item key="DIALOG_WIDTH" value="418"/>
 		<item key="DIALOG_HEIGHT" value="523"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>

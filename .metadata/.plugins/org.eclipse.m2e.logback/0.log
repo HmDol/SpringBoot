@@ -7425,3 +7425,621 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.mybatis.s
 2023-11-20 17:38:32,706 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2023-11-20 17:38:32,762 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
 2023-11-20 17:38:32,920 [Worker-136: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-20 22:31:31,033 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-21 09:13:57,793 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-21 10:00:08,324 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:00:08,370 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 10:00:09,081 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:06:34,550 [Worker-43: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:06:34,691 [Worker-43: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 10:06:34,842 [Worker-43: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:09:41,842 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:09:41,910 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 10:09:42,028 [Worker-34: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:24:35,110 [Worker-53: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:24:35,205 [Worker-53: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 10:24:35,396 [Worker-53: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:28:00,155 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 10:28:00,231 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 10:28:00,242 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:28:55,063 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 10:28:55,125 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 10:28:55,136 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:47:31,526 [Worker-56: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:47:31,617 [Worker-56: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 10:47:31,763 [Worker-56: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 10:50:16,466 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 10:50:16,523 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 10:50:16,624 [Worker-61: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 11:30:51,629 [Worker-90: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 11:30:51,705 [Worker-90: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 11:30:51,892 [Worker-90: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 11:31:28,349 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 11:31:28,415 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 11:31:28,536 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 11:49:01,930 [Worker-100: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 11:49:01,992 [Worker-100: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 11:49:02,001 [Worker-100: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 11:58:17,622 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 11:58:17,680 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 11:58:17,688 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:01:55,732 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 12:01:55,824 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 12:01:56,000 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:11:37,128 [Worker-115: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 12:11:37,211 [Worker-115: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 12:11:37,342 [Worker-115: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:18:59,131 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 12:18:59,214 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 12:18:59,334 [Worker-120: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:20:40,640 [Worker-121: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 12:20:40,703 [Worker-121: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 121 resources from src\main\resources to target\classes
+2023-11-21 12:20:40,814 [Worker-121: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:23:17,230 [Worker-114: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 12:23:17,335 [Worker-114: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 12:23:17,348 [Worker-114: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:36:47,524 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 12:36:47,585 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 12:36:47,594 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 12:40:27,044 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 12:40:27,103 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 12:40:27,110 [Worker-130: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:42:36,368 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 15:42:36,544 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 15:42:36,892 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:43:49,566 [Worker-158: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 15:43:49,665 [Worker-158: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 15:43:49,682 [Worker-158: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:45:32,499 [Worker-162: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 15:45:32,578 [Worker-162: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 15:45:32,586 [Worker-162: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:49:49,040 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-21 15:51:01,731 [Worker-14: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 15:51:01,959 [Worker-14: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 15:51:02,314 [Worker-14: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:54:54,905 [Worker-9: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 15:54:54,982 [Worker-9: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 15:54:55,095 [Worker-9: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 15:57:50,120 [Worker-24: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 15:57:50,190 [Worker-24: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 15:57:50,371 [Worker-24: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 16:02:35,324 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 16:02:35,395 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 16:02:35,404 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 16:09:32,714 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-21 16:09:32,778 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 120 resources from src\main\resources to target\classes
+2023-11-21 16:09:32,908 [Worker-27: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 16:31:06,325 [Worker-36: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-21 16:31:06,388 [Worker-36: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-21 16:31:06,396 [Worker-36: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-21 17:00:53,841 [main] WARN  o.e.j.i.storage.file.PackDirectory - Pack file C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack was deleted, removing it from pack list
+java.io.FileNotFoundException: C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack (지정된 파일을 찾을 수 없습니다)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at org.eclipse.jgit.internal.storage.file.Pack.doOpen(Pack.java:663)
+	at org.eclipse.jgit.internal.storage.file.Pack.beginWindowCache(Pack.java:643)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:513)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:605)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:321)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:221)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:619)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:802)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:289)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:225)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:412)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:375)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:365)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:350)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:133)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:1028)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.toRevCommit(GitHistoryPage.java:2593)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$6(GitHistoryPage.java:2568)
+	at org.eclipse.egit.core.UnitOfWork.execute(UnitOfWork.java:96)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2512)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2491)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$5(GitHistoryPage.java:1904)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+2023-11-21 17:00:53,841 [Worker-57: Computing Git status for repository crewz] WARN  o.e.j.i.storage.file.PackDirectory - Pack file C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack is corrupt, removing it from pack list
+org.eclipse.jgit.errors.PackInvalidException: Pack file invalid: C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack
+	at org.eclipse.jgit.internal.storage.file.Pack.doOpen(Pack.java:659)
+	at org.eclipse.jgit.internal.storage.file.Pack.beginWindowCache(Pack.java:643)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:513)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:605)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:321)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:221)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:619)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:802)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:289)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:225)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:412)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:375)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:365)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:350)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:133)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseTree(RevWalk.java:1055)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:292)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:272)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.lambda$8(IndexDiffCacheEntry.java:632)
+	at org.eclipse.egit.core.UnitOfWork.run(UnitOfWork.java:115)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.calcIndexDiffDataFull(IndexDiffCacheEntry.java:627)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$2.reload(IndexDiffCacheEntry.java:398)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$IndexDiffReloadJob.run(IndexDiffCacheEntry.java:775)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.FileNotFoundException: C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack (지정된 파일을 찾을 수 없습니다)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at org.eclipse.jgit.internal.storage.file.Pack.doOpen(Pack.java:663)
+	at org.eclipse.jgit.internal.storage.file.Pack.beginWindowCache(Pack.java:643)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:513)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:605)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:321)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:221)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:619)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:802)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:289)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:225)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:412)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:375)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:365)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:350)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:133)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:1028)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.toRevCommit(GitHistoryPage.java:2593)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$6(GitHistoryPage.java:2568)
+	at org.eclipse.egit.core.UnitOfWork.execute(UnitOfWork.java:96)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2512)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2491)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$5(GitHistoryPage.java:1904)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+2023-11-21 17:00:53,879 [Worker-57: Computing Git status for repository crewz] WARN  o.e.j.i.storage.file.PackDirectory - Pack file C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack is corrupt, removing it from pack list
+org.eclipse.jgit.errors.PackInvalidException: Pack file invalid: C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack
+	at org.eclipse.jgit.internal.storage.file.Pack.doOpen(Pack.java:659)
+	at org.eclipse.jgit.internal.storage.file.Pack.beginWindowCache(Pack.java:643)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:513)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:605)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:321)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:221)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:619)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:802)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:289)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:225)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:412)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:375)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:365)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:350)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:133)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseTree(RevWalk.java:1055)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:292)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:272)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.lambda$8(IndexDiffCacheEntry.java:632)
+	at org.eclipse.egit.core.UnitOfWork.run(UnitOfWork.java:115)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry.calcIndexDiffDataFull(IndexDiffCacheEntry.java:627)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$2.reload(IndexDiffCacheEntry.java:398)
+	at org.eclipse.egit.core.internal.indexdiff.IndexDiffCacheEntry$IndexDiffReloadJob.run(IndexDiffCacheEntry.java:775)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.FileNotFoundException: C:\Users\vtwin\Java_Cloud\spring\crewz\.git\objects\pack\pack-175d4e983f86134a47756e8e128c3edf119cc39b.pack (지정된 파일을 찾을 수 없습니다)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at org.eclipse.jgit.internal.storage.file.Pack.doOpen(Pack.java:663)
+	at org.eclipse.jgit.internal.storage.file.Pack.beginWindowCache(Pack.java:643)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:513)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:605)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:321)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:221)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:619)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:802)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:289)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:225)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:412)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:375)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:365)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:350)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:133)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseCommit(RevWalk.java:1028)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.toRevCommit(GitHistoryPage.java:2593)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$6(GitHistoryPage.java:2568)
+	at org.eclipse.egit.core.UnitOfWork.execute(UnitOfWork.java:96)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2512)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.initAndStartRevWalk(GitHistoryPage.java:2491)
+	at org.eclipse.egit.ui.internal.history.GitHistoryPage.lambda$5(GitHistoryPage.java:1904)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+2023-11-21 17:14:22,096 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-21 17:15:23,520 [Worker-19: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-21 17:15:27,223 [Worker-19: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.project:crewz:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\crewz\pom.xml.
+2023-11-21 17:15:33,232 [Worker-19: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/main/java
+2023-11-21 17:15:33,232 [Worker-19: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-21 17:15:33,257 [Worker-19: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-21 17:15:33,290 [Worker-19: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/test/java
+2023-11-21 17:15:33,292 [Worker-19: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/test/resources
+2023-11-21 17:15:40,590 [Worker-19: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 9.00 sec, update config takes 8.00 sec 
+2023-11-21 17:28:14,835 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-21 17:33:17,270 [Worker-23: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-21 17:33:18,969 [Worker-23: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.project:crewz:0.0.1-SNAPSHOT @ C:\Users\vtwin\Java_Cloud\spring\crewz\pom.xml.
+2023-11-21 17:33:23,541 [Worker-23: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/main/java
+2023-11-21 17:33:23,542 [Worker-23: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-21 17:33:23,578 [Worker-23: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/main/resources
+2023-11-21 17:33:23,617 [Worker-23: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /crewz/src/test/java
+2023-11-21 17:33:23,619 [Worker-23: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /crewz/src/test/resources
+2023-11-21 17:33:30,900 [Worker-23: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 8.00 sec 
+2023-11-22 14:09:36,829 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-22 14:13:11,077 [Worker-10: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:13:11,123 [Worker-10: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:13:11,911 [Worker-10: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:15:57,064 [Worker-23: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:15:57,147 [Worker-23: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:15:57,152 [Worker-23: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:17:45,502 [Worker-11: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:17:45,611 [Worker-11: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:17:45,620 [Worker-11: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:27:56,884 [Worker-33: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:27:56,972 [Worker-33: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:27:57,289 [Worker-33: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:31:42,829 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:31:42,903 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:31:42,915 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:32:57,023 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:32:57,081 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:32:57,102 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:36:39,579 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:36:39,664 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:36:39,830 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:39:20,795 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:39:20,858 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:39:20,869 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:41:56,372 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:41:56,426 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:41:56,435 [Worker-55: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:43:14,695 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:43:14,755 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:43:14,764 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:47:04,907 [Worker-54: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:47:04,959 [Worker-54: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:47:05,092 [Worker-54: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:48:23,655 [Worker-57: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:48:23,711 [Worker-57: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:48:23,719 [Worker-57: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:53:22,417 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 14:53:22,470 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 14:53:22,478 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:54:07,370 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:54:07,421 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:54:07,527 [Worker-48: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:54:31,888 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:54:31,941 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:54:32,056 [Worker-63: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:56:21,163 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:56:21,202 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:56:21,334 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:56:30,739 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:56:30,785 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:56:30,898 [Worker-64: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 14:59:53,071 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 14:59:53,113 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 14:59:53,223 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:01:59,450 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 15:01:59,503 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 15:01:59,510 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:05:43,707 [Worker-71: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 15:05:43,778 [Worker-71: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 15:05:43,786 [Worker-71: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:08:50,681 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 15:08:50,744 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 15:08:50,753 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:11:18,268 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:11:18,323 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:11:18,454 [Worker-74: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:12:57,817 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:12:57,871 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:12:58,048 [Worker-80: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:14:10,320 [Worker-81: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:14:10,382 [Worker-81: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:14:10,534 [Worker-81: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:26:22,024 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:26:22,107 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:26:22,361 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:30:43,109 [Worker-94: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:30:43,174 [Worker-94: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:30:43,376 [Worker-94: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:34:18,599 [Worker-86: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:34:18,647 [Worker-86: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:34:18,756 [Worker-86: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 15:44:55,530 [Worker-108: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 15:44:55,586 [Worker-108: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 15:44:55,790 [Worker-108: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:34:27,496 [Worker-123: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 16:34:27,681 [Worker-123: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 16:34:27,887 [Worker-123: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:35:13,956 [Worker-102: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 16:35:14,126 [Worker-102: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 16:35:14,257 [Worker-102: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:35:58,716 [Worker-124: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 16:35:58,804 [Worker-124: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 16:35:58,949 [Worker-124: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:56:27,489 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 16:56:27,603 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 16:56:27,820 [Worker-128: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:57:51,349 [Worker-135: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 16:57:51,402 [Worker-135: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 16:57:51,409 [Worker-135: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 16:58:31,137 [Worker-138: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 16:58:31,191 [Worker-138: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 16:58:31,201 [Worker-138: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:12:44,310 [Worker-141: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:12:44,362 [Worker-141: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 17:12:44,391 [Worker-141: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:14:03,702 [Worker-147: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:14:03,754 [Worker-147: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:14:03,762 [Worker-147: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:16:11,363 [Worker-137: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:16:11,417 [Worker-137: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:16:11,425 [Worker-137: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:18:32,585 [Worker-160: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:18:32,637 [Worker-160: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:18:32,644 [Worker-160: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:20:17,117 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:20:17,186 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:20:17,195 [Worker-156: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:22:02,830 [Worker-167: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:22:02,882 [Worker-167: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:22:02,889 [Worker-167: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:24:44,224 [Worker-171: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:24:44,279 [Worker-171: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:24:44,287 [Worker-171: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:27:01,003 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:27:01,059 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:27:01,066 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:28:09,460 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:28:09,518 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:28:09,525 [Worker-177: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:29:58,677 [Worker-178: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:29:58,738 [Worker-178: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:29:58,749 [Worker-178: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:31:07,561 [Worker-181: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:31:07,621 [Worker-181: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:31:07,630 [Worker-181: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:34:49,952 [Worker-184: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:34:50,007 [Worker-184: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:34:50,014 [Worker-184: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:37:10,174 [Worker-189: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:37:10,228 [Worker-189: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:37:10,234 [Worker-189: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:39:01,920 [Worker-193: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:39:01,974 [Worker-193: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:39:01,982 [Worker-193: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:39:41,192 [Worker-188: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:39:41,248 [Worker-188: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:39:41,255 [Worker-188: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:41:33,017 [Worker-192: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 17:41:33,081 [Worker-192: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 17:41:33,266 [Worker-192: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:44:29,265 [Worker-198: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:44:29,317 [Worker-198: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:44:29,324 [Worker-198: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:46:05,478 [Worker-191: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:46:05,536 [Worker-191: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:46:05,544 [Worker-191: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:47:38,787 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-22 17:49:37,213 [Worker-8: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-22 17:49:37,254 [Worker-8: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-22 17:49:37,416 [Worker-8: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-22 17:51:16,654 [Worker-3: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-22 17:51:16,719 [Worker-3: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-22 17:51:16,729 [Worker-3: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 09:28:02,164 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-23 09:29:01,537 [Worker-12: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 09:29:01,609 [Worker-12: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 09:29:01,860 [Worker-12: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 09:44:43,519 [Worker-26: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 09:44:43,590 [Worker-26: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 09:44:43,600 [Worker-26: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:29:45,091 [Worker-38: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 10:29:45,153 [Worker-38: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 10:29:45,351 [Worker-38: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:34:14,865 [Worker-45: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 10:34:14,940 [Worker-45: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 10:34:14,953 [Worker-45: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:46:31,913 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 10:46:31,969 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 10:46:32,000 [Worker-50: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:53:02,289 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 10:53:02,346 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 10:53:02,356 [Worker-60: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:55:51,863 [Worker-67: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 10:55:51,937 [Worker-67: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 10:55:51,950 [Worker-67: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 10:59:36,866 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 10:59:36,919 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 10:59:36,928 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:02:23,634 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:02:23,688 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:02:23,696 [Worker-66: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:04:51,740 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:04:51,798 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:04:51,809 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:07:57,418 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:07:57,452 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:07:57,462 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\AWS\src\test\resources
+2023-11-23 11:08:00,892 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:00,916 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2023-11-23 11:08:00,933 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\RestApi\src\test\resources
+2023-11-23 11:08:04,094 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:04,123 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:04,138 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\auth-token\src\test\resources
+2023-11-23 11:08:07,285 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:07,320 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:08:07,331 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-23 11:08:12,116 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:12,164 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:08:12,172 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-23 11:08:16,072 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:16,097 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:08:16,106 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\fileUpDown\src\test\resources
+2023-11-23 11:08:19,314 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:19,335 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:08:19,344 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-23 11:08:22,292 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:22,319 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:08:22,328 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-11-23 11:08:24,993 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:08:25,018 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 14 resources from src\main\resources to target\classes
+2023-11-23 11:08:25,114 [Worker-69: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\thymeleaf\src\test\resources
+2023-11-23 11:09:49,976 [Worker-78: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:09:50,051 [Worker-78: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:09:50,063 [Worker-78: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:12:35,691 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:12:35,745 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:12:35,753 [Worker-89: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:14:07,083 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:14:07,139 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:14:07,147 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:14:53,519 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:14:53,573 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:14:53,581 [Worker-85: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 11:17:54,153 [Worker-93: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 11:17:54,207 [Worker-93: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 11:17:54,216 [Worker-93: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 14:15:05,539 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-11-23 16:20:28,772 [Worker-4: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:20:28,842 [Worker-4: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:20:29,096 [Worker-4: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:24:09,774 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:24:09,835 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:24:09,946 [Worker-30: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:29:11,403 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:29:11,488 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:29:11,498 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:32:19,978 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:32:20,104 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:32:20,203 [Worker-42: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:35:14,614 [Worker-51: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:35:14,671 [Worker-51: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:35:14,679 [Worker-51: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:40:32,394 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:40:32,443 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:40:32,568 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:43:24,768 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:43:24,817 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:43:24,921 [Worker-47: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:45:58,458 [Worker-65: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:45:58,518 [Worker-65: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:45:58,529 [Worker-65: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:47:41,668 [Worker-68: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:47:41,740 [Worker-68: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:47:41,751 [Worker-68: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:50:01,856 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:50:01,949 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:50:01,963 [Worker-69: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:55:21,673 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 16:55:21,741 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 16:55:21,755 [Worker-72: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 16:59:17,551 [Worker-77: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 16:59:17,611 [Worker-77: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 16:59:17,701 [Worker-77: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:04:14,639 [Worker-82: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 17:04:14,692 [Worker-82: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 17:04:14,861 [Worker-82: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:08:58,470 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 17:08:58,543 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 17:08:58,677 [Worker-79: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:14:22,607 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 17:14:22,665 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 17:14:22,792 [Worker-91: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:15:38,498 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 17:15:38,561 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 17:15:38,571 [Worker-92: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:20:55,496 [Worker-87: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-11-23 17:20:55,584 [Worker-87: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-11-23 17:20:55,595 [Worker-87: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:29:03,946 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 17:29:03,995 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 17:29:04,095 [Worker-95: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources
+2023-11-23 17:31:06,518 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2023-11-23 17:31:06,669 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 111 resources from src\main\resources to target\classes
+2023-11-23 17:31:06,780 [Worker-104: Launching crewz - CrewzApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\vtwin\Java_Cloud\spring\crewz\src\test\resources

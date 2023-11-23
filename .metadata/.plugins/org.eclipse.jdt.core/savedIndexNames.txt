@@ -2,7 +2,7 @@ INDEX VERSION 1.134+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.ecli
 3703927958.index
 4260330110.index
 3926666305.index
-1195417178.index
+3509881689.index
 91374626.index
 2543934617.index
 3973973408.index
@@ -53,7 +53,6 @@ INDEX VERSION 1.134+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.ecli
 794217213.index
 3943958606.index
 1739708281.index
-3788325945.index
 1712411875.index
 1298968057.index
 2151594723.index
@@ -133,8 +132,8 @@ INDEX VERSION 1.134+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.ecli
 1719072179.index
 3371319254.index
 3022782901.index
-2787076030.index
 2174949981.index
+2787076030.index
 81208266.index
 4178545947.index
 3548088671.index
@@ -161,7 +160,7 @@ INDEX VERSION 1.134+C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.ecli
 906246089.index
 3385240589.index
 4008745728.index
-2049363680.index
-3509881689.index
 3049168930.index
 4032104904.index
+2049363680.index
+1195417178.index
