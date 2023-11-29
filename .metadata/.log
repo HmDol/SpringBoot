@@ -4781,3 +4781,131 @@ java.lang.IllegalArgumentException: Argument not valid
 
 !ENTRY org.eclipse.wst.sse.core 2 2 2023-11-28 16:33:29.716
 !MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-11-28 17:41:21.057
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-11-29 09:20:47.082 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=21
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-11-29 09:21:14.967
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-11-29 09:21:15.539
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-11-29 09:21:23.860
+!MESSAGE Logback config file: C:\Users\vtwin\Java_Cloud\spring\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-11-29 09:21:28.446
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-11-29 09:21:28.446
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2023-11-29 09:21:39.304
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-11-29 09:21:39.304
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.tm4e.languageconfiguration.toggleLineCommentCommand"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		WorkbenchHandlerServiceHandler("org.springframework.tooling.boot.ls.ToggleComment"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-11-29 09:21:40.569
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\vtwin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.342
+!MESSAGE Boot project ADDED: AWS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.344
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.403
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.512
+!MESSAGE Boot project ADDED: RestApi
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.513
+!MESSAGE Boot project ADDED: auth-token
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-29 09:21:42.737
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\vtwin\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.0.v20231013-1207\jre\bin\javaw.exe
+-cp
+C:\Users\vtwin\eclipse\plugins\org.springframework.tooling.boot.ls_1.49.0.202309081616\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\vtwin\eclipse\plugins\org.springframework.tooling.boot.ls_1.49.0.202309081616\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\vtwin\eclipse\plugins\org.springframework.tooling.boot.ls_1.49.0.202309081616\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/vtwin/Java_Cloud/spring/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1701217302736
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.739
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.777
+!MESSAGE Boot project ADDED: crewz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-11-29 09:21:42.778
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 26088
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.899
+!MESSAGE Boot project ADDED: dataroom
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.939
+!MESSAGE Boot project ADDED: demo1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:42.998
+!MESSAGE Boot project ADDED: fileUpDown
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:43.041
+!MESSAGE Boot project ADDED: jpa
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:43.060
+!MESSAGE Boot project ADDED: mybatis
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-11-29 09:21:43.235
+!MESSAGE Boot project ADDED: thymeleaf
