@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="MyMemo"/>
 		<list key="findhistory">
+			<item value="Diary"/>
 			<item value="somoim("/>
 			<item value="[["/>
 			<item value="8"/>
@@ -22,9 +23,9 @@
 			<item value="Article"/>
 			<item value="ImgArticle"/>
 			<item value="GuestBook2"/>
-			<item value="Cotent"/>
 		</list>
 		<list key="replacehistory">
+			<item value="MyMemo"/>
 			<item value=""/>
 			<item value="picture"/>
 			<item value="#loginf"/>
